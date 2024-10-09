@@ -1,0 +1,14 @@
+D:\GitFull\GitTests\GitTests\bin\Debug\net8.0\GitTests.exe
+D:\GitFull\GitTests\GitTests\bin\Debug\net8.0\GitTests.deps.json
+D:\GitFull\GitTests\GitTests\bin\Debug\net8.0\GitTests.runtimeconfig.json
+D:\GitFull\GitTests\GitTests\bin\Debug\net8.0\GitTests.dll
+D:\GitFull\GitTests\GitTests\bin\Debug\net8.0\GitTests.pdb
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\GitTests.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\GitTests.AssemblyInfoInputs.cache
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\GitTests.AssemblyInfo.cs
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\GitTests.csproj.CoreCompileInputs.cache
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\GitTests.dll
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\refint\GitTests.dll
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\GitTests.pdb
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\GitTests.genruntimeconfig.cache
+D:\GitFull\GitTests\GitTests\obj\Debug\net8.0\ref\GitTests.dll
